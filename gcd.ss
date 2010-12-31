@@ -3,7 +3,7 @@
 #reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname gcd) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 ;; ###############################################
 ;; gcd.ss
-;; Jesse McGinnis : 20296483
+;; Jesse McGinnis
 ;; Assignment 9, Question 2ab
 ;; ###############################################
 
